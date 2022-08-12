@@ -12,8 +12,8 @@ const CONFIG = {
 
 	// General
 	name: 'Darío',
-	imageBackground: true,
-	openInNewTab: true,
+	imageBackground: false,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
