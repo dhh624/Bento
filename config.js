@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Server',
 			icon: 'server',
-			link: 'http://192.168.1.215',
+			link: 'http://192.168.1.215:78/',
 		},
 		{
 			id: '2',
